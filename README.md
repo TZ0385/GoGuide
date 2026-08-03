@@ -7991,11 +7991,9 @@ func main() {
 
 ### 公众号
 
-如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**代码情缘**”。
+如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**AI维克兹**”。
 
-**《C语言保姆级教程》:**《**Go语言保姆级教程**》PDF 版本在[微信公众号](#公众号)后台回复 **"书籍"** 即可免费领取！
-
-![我的公众号](https://cdn.nlark.com/yuque/0/2021/png/12653647/1636445801751-365907e4-cc4d-4db3-b806-d8105c605f81.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0)
+<img width="1710" height="624" alt="扫码_搜索联合传播样式-标准色版" src="https://github.com/user-attachments/assets/e3d9ff68-f49b-4a36-b1cd-6ef8d6ba8457" />
 
 
 
